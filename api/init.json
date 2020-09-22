@@ -43,7 +43,7 @@
             },
             {
               "title": "班级信息维护",
-              "href": "page/class/findClass.html",
+              "href": "page/class/findclass.html",
               "icon": "fa fa-search-plus",
               "target": "_self"
             }
@@ -77,7 +77,7 @@
           "child": [
             {
               "title": "合作企业添加",
-              "href": "page/company/addcompany.html",
+              "href": "page/company/addCompany.html",
               "icon": "fa fa-plus-square",
               "target": "_self"
             },
@@ -93,27 +93,6 @@
               "icon": "fa fa-search",
               "target": "_self"
         }
-      ]
-    },
-    {
-      "title": "跟踪回访管理",
-      "href": "",
-      "icon": "fa fa-home",
-      "target": "_self",
-      "child": [
-        {
-          "title": "回访记录添加",
-          "href": "page/returnVisit/return.html",
-          "icon": "fa fa-tachometer",
-          "target": "_self"
-        },
-        {
-          "title": "跟踪回访维护",
-          "href": "page/returnVisit/find.html",
-          "icon": "fa fa-tachometer",
-          "target": "_self"
-        }
-
       ]
     }
 
